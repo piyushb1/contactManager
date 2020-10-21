@@ -1,10 +1,10 @@
 # [Contact Manager](https://piyushb1.github.io/contactManager/#/)
-This is a NodeJS website for posting blogs supported by MongoDB and ExpressJS
+This is a ReactJS website for managing contacts supported by MongoDB
 
 
 ![ReactJS | MongoDB](https://codemoto.io/wp-content/themes/cloudhost/library/images/node-express-mongo.png)
 
-## Building and Running 'blogsite'
+## Building and Running 'Contact Manager'
 
 Building and running blogsite in your local dev environment is very easy. Be sure you have [Git](https://git-scm.com/downloads) and [Node.js](https://nodejs.org/) installed, then follow the directions below.
 
